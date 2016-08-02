@@ -1,2 +1,0 @@
-# mygit
-this is mygit
